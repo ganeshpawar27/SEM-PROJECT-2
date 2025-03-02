@@ -36,7 +36,11 @@ To achieve precise detection, the model utilizes deep learning and convolutional
 This project is designed to be scalable and portable, allowing it to run on PCs, cloud platforms, and edge devices. It has applications in security (intruder detection), automation (self-checkout systems), healthcare (PPE compliance), and industry (defect detection). By enhancing object recognition speed and accuracy, this project contributes to the advancement of AI-powered vision systems and real-world automation.
 
 Team Members:
+<br>
 Patil Uday Pravin (SY DS-13-231106012) 
+<br>
 Gavit Jinendra Gopal (SY DS-03-231106001)
+<br>
 Pawar Ganesh Kanhaiyasing (SY DS-18-231106017)
+<br>
 Marathe Nilesh Kantilal (SY DS-09-231106007)
